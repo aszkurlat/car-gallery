@@ -77,3 +77,15 @@ body {
     width: 100%;
     border-radius: 8px;
 }
+@media(orientation: portrait){
+    .gallery a {
+     padding: 20px;
+     flex-basis: 50%;
+    }
+    .gallery a:last-child{
+        margin: 0 auto;
+    }
+    .gallery .images{
+        margin-top: 10%;
+    }
+}
