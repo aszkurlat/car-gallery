@@ -6,6 +6,11 @@ Car gallery with lightbox
 
 ![Desktop verion:](https://raw.githubusercontent.com/aszkurlat/car-gallery/main/Screenshot/Car%20Gallery.png)
 
+![Desktop verion:](https://raw.githubusercontent.com/aszkurlat/car-gallery/main/Screenshot/Gallery.png)
+
+
+
+
 - Mobile:
 
 
