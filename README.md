@@ -14,6 +14,6 @@ Car gallery with lightbox
 - Mobile:
 
 
-![Mobile version:](https://github.com/aszkurlat/car-gallery/blob/main/Screenshot/Car%20Gallery%20Mobile.png) ![Mobile version:](https://raw.githubusercontent.com/aszkurlat/car-gallery/main/Screenshot/Gallerymobile.png)
+![Mobile version:](https://github.com/aszkurlat/car-gallery/blob/main/Screenshot/Car%20Gallery%20Mobile.png)        ![Mobile version:](https://raw.githubusercontent.com/aszkurlat/car-gallery/main/Screenshot/Gallerymobile.png)
 
 
